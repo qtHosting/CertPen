@@ -1,0 +1,27 @@
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\MainWindow.baml
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\MainWindow.g.cs
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\App.g.cs
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\CertPen.csproj.GenerateResource.Cache
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\bin\Release\CertPen.exe.config
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\CertPen_MarkupCompile.cache
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\CertPen_MarkupCompile.lref
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\bin\Release\CertPen.exe
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\bin\Release\CertPen.pdb
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\CertPen.g.resources
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\CertPen.Properties.Resources.resources
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\CertPen.exe
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\CertPen.pdb
+C:\Users\Damadar\Documents\SignCodeApp\SignCodeApp\bin\Release\CertPen.exe.config
+C:\Users\Damadar\Documents\SignCodeApp\SignCodeApp\obj\Release\CertPen.exe
+C:\Users\Damadar\Documents\SignCodeApp\SignCodeApp\obj\Release\CertPen.pdb
+C:\Users\Damadar\Documents\SignCodeApp\SignCodeApp\bin\Release\CertPen.exe
+C:\Users\Damadar\Documents\SignCodeApp\SignCodeApp\bin\Release\CertPen.pdb
+C:\Users\Damadar\Documents\SignCodeApp\SignCodeApp\obj\Release\CertPen.csprojResolveAssemblyReference.cache
+C:\Users\Damadar\Documents\SignCodeApp\SignCodeApp\obj\Release\MainWindow.g.cs
+C:\Users\Damadar\Documents\SignCodeApp\SignCodeApp\obj\Release\App.g.cs
+C:\Users\Damadar\Documents\SignCodeApp\SignCodeApp\obj\Release\CertPen_MarkupCompile.cache
+C:\Users\Damadar\Documents\SignCodeApp\SignCodeApp\obj\Release\CertPen_MarkupCompile.lref
+C:\Users\Damadar\Documents\SignCodeApp\SignCodeApp\obj\Release\MainWindow.baml
+C:\Users\Damadar\Documents\SignCodeApp\SignCodeApp\obj\Release\CertPen.g.resources
+C:\Users\Damadar\Documents\SignCodeApp\SignCodeApp\obj\Release\CertPen.Properties.Resources.resources
+C:\Users\Damadar\Documents\SignCodeApp\SignCodeApp\obj\Release\CertPen.csproj.GenerateResource.Cache

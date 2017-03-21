@@ -1,0 +1,14 @@
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\bin\Release\SignCodeApp.exe.config
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\bin\Release\SignCodeApp.exe
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\bin\Release\SignCodeApp.pdb
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\MainWindow.g.cs
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\App.g.cs
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\SignCodeApp_MarkupCompile.cache
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\SignCodeApp_MarkupCompile.lref
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\MainWindow.baml
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\SignCodeApp.g.resources
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\SignCodeApp.Properties.Resources.resources
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\SignCodeApp.csproj.GenerateResource.Cache
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\SignCodeApp.exe
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\SignCodeApp.pdb
+c:\users\james.cordrey\documents\visual studio 2015\Projects\SignCodeApp\SignCodeApp\obj\Release\SignCodeApp.csprojResolveAssemblyReference.cache
